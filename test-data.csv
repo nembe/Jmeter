@@ -1,0 +1,7 @@
+method,path,balance,overdraft,name,json,credit,debet,total,assertion
+GET,accounts,,,,,,,,
+POST,account,705,50,Doenda50,D:/workspace_jmeter/account.json,,,,
+GET,owner/Doenda50,,,,,,,,
+GET,account,,,,,,,,
+POST,transfer,,,,D:/workspace_jmeter/transfer.json,81e3211d-e7fb-41ec-87f7-9a0912a3214b,,20,
+

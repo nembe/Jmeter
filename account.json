@@ -1,0 +1,5 @@
+{
+  "balance": ${balance},
+  "overdraft": ${overdraft},
+  "name": "${name}"
+}

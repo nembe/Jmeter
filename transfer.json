@@ -1,0 +1,5 @@
+{
+  "credit": "${credit}",
+  "debet": "${accountUUID}",
+  "totaal": ${total}
+}
