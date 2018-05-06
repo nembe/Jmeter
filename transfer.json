@@ -1,5 +1,5 @@
 {
-  "credit": "${credit}",
-  "debet": "${accountUUID}",
+  "credit": "${__CSVRead(${credit}.csv,0)}",
+  "debet": "${__CSVRead(${file}.csv,0)}",
   "totaal": ${total}
 }
